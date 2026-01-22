@@ -2,6 +2,14 @@
 
 A full-stack application for seaweed quality control analysis, using React (Frontend), Flask (Backend), and Google Gemini (AI).
 
+## Application Preview
+
+![Home Page](assets/screenshots/01_home.png)
+![Quality Control List](assets/screenshots/02_quality_control.png)
+![Batch Details](assets/screenshots/03_batch_details.png)
+![Upload Dialog](assets/screenshots/04_upload_dialog.png)
+![Analysis Modal](assets/screenshots/05_analysis_modal.png)
+
 ## Prerequisites
 
 - **SQLite**: Required for local data persistence.
