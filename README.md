@@ -9,6 +9,7 @@ A full-stack application for seaweed quality control analysis, using React (Fron
 ![Batch Details](assets/screenshots/03_batch_details.png)
 ![Upload Dialog](assets/screenshots/04_upload_dialog.png)
 ![Analysis Modal](assets/screenshots/05_analysis_modal.png)
+![Edit Modal](assets/screenshots/06_edit_modal.png)
 
 ## Prerequisites
 
