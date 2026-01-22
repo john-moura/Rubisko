@@ -1,0 +1,25 @@
+.layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.layout-body {
+    display: flex;
+    flex: 1;
+    margin-top: 60px;
+}
+
+.layout-content {
+    flex: 1;
+    margin-left: 250px;
+    padding: 20px;
+    background-color: #ffffff;
+    transition: margin-left 0.3s ease;
+    min-height: calc(100vh - 60px);
+}
+
+/* Adjust content margin when sidebar is collapsed */
+.sidebar.collapsed~.layout-content {
+    margin-left: 60px;
+}

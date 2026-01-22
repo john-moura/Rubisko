@@ -1,0 +1,32 @@
+[
+    {
+        "id": "batch_01_2006",
+        "batchName": "Seaweed seed - Batch_01_2006",
+        "batchDate": "2006-01-15"
+    },
+    {
+        "id": "batch_02_2006",
+        "batchName": "Seaweed seed - Batch_02_2006",
+        "batchDate": "2006-02-20"
+    },
+    {
+        "id": "batch_03_2006",
+        "batchName": "Seaweed seed - Batch_03_2006",
+        "batchDate": "2006-03-10"
+    },
+    {
+        "id": "batch_04_2006",
+        "batchName": "Seaweed seed - Batch_04_2006",
+        "batchDate": "2006-04-05"
+    },
+    {
+        "id": "batch_05_2006",
+        "batchName": "Seaweed seed - Batch_05_2006",
+        "batchDate": "2006-05-12"
+    },
+    {
+        "id": "batch_06_2006",
+        "batchName": "Seaweed seed - Batch_06_2006",
+        "batchDate": "2006-06-18"
+    }
+]
